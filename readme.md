@@ -12,7 +12,7 @@ This repo contains some programs relating to the following :
 
 **Poly Alphabetic Substitution Ciphers**
 - Autokey Cipher
-- Vigenere Cipher (work in progress)
+- Vigenere Cipher
 
 ### Transposition Ciphers
 - Keyed Transposition Cipher
